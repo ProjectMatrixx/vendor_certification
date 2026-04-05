@@ -1,12 +1,12 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang_beta/mustang:16/BP41.250916.010.A1/14281945:user/release-keys",
+    "MODEL": "Pixel 10 Pro",
+    "FINGERPRINT": "google/blazer_beta/blazer:17/CP21.260306.017/15063635:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "mustang_beta",
-    "DEVICE": "mustang",
-    "VERSION.RELEASE": "16",
-    "ID": "BP41.250916.010.A1",
-    "VERSION.SECURITY_PATCH": "2025-10-05",
+    "PRODUCT": "blazer_beta",
+    "DEVICE": "blazer",
+    "VERSION.RELEASE": "17",
+    "ID": "CP21.260306.017",
+    "VERSION.SECURITY_PATCH": "2026-03-05",
     "VERSION.DEVICE_INITIAL_SDK_INT": "32"
 }
